@@ -6,7 +6,7 @@ body{
 
 .pasto-verde{
 	background-color: green;
-	padding-top:150px;
+	padding-top:135px;
 	margin-top: 500px;
 	width: 100%;
 	position: relative;
@@ -19,8 +19,8 @@ body{
 	-moz-border-radius: 50px;
 	-webkit-border-radius: 50px;
 	border-radius: 50px;
-	left: 20px;
-	top: 20px;
+	left: 40px;
+	top: 40px;
 	position: absolute;
 	
 }
@@ -62,7 +62,8 @@ body{
 	color: red;
 	position: absolute;
 	bottom: 150px;
-	margin-left: 950px;
+	margin-left: 930px;
+	font-size: 40px;
 	
 }
 
@@ -127,4 +128,32 @@ body{
 	margin-left: 1000px;
 	position:absolute;
 	bottom: 320px;
+}
+
+.punto1{
+		width: 20px;
+	height: 20px;
+	background: red;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	background: gray;
+	float: right;
+	bottom: 380px;
+	position: relative;
+	margin-right: 300px;
+}
+
+.punto2{
+	width: 20px;
+	height: 20px;
+	background: red;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	background: gray;
+	float: right;
+	bottom: 400px;
+	position: relative;
+	margin-right: -30px;
 }
